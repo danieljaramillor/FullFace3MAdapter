@@ -9,4 +9,5 @@ There are currently 2 versions. One with 2 one way valves to control intake and 
 
 This is designed for the Decathon masks only, although other manufacturers have provided their own adapters for other types of filters.
 
-If you do test this out please contact me
+If you do test this out please contact me at my website:
+danieljaramillor.github.io
