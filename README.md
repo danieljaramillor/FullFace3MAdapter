@@ -1,6 +1,8 @@
 # FullFace3MAdapter
 A full face snorkeling mask adapter for 3M filters
 
+THE MOST UP TO DATE FILES ARE: ADAPTADOR.STL AND 3MBAYONET.STL
+
 This design provides an adapter for 3M Bayonet mount filters to a full face snorkeling mask, this to serve as protection for doctors and nurses tending the COVID-19 crisis
 I HAVE NOT DONE ANY TESTING ON THIS YET
 
